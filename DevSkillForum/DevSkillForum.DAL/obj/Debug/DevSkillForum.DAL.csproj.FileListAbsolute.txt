@@ -1,0 +1,9 @@
+E:\Projects\AspNet\DevSkillForum\DevSkillForum.DAL\bin\Debug\DevSkillForum.DAL.dll
+E:\Projects\AspNet\DevSkillForum\DevSkillForum.DAL\bin\Debug\DevSkillForum.DAL.pdb
+E:\Projects\AspNet\DevSkillForum\DevSkillForum.DAL\obj\Debug\DevSkillForum.DAL.csprojResolveAssemblyReference.cache
+E:\Projects\AspNet\DevSkillForum\DevSkillForum.DAL\obj\Debug\DevSkillForum.DAL.dll
+E:\Projects\AspNet\DevSkillForum\DevSkillForum.DAL\obj\Debug\DevSkillForum.DAL.pdb
+E:\Projects\AspNet\DevSkillForum\DevSkillForum.DAL\bin\Debug\Ninject.dll
+E:\Projects\AspNet\DevSkillForum\DevSkillForum.DAL\bin\Debug\Ninject.xml
+E:\Projects\AspNet\DevSkillForum\DevSkillForum.DAL\bin\Debug\DevSkillForum.BLL.dll
+E:\Projects\AspNet\DevSkillForum\DevSkillForum.DAL\bin\Debug\DevSkillForum.BLL.pdb
